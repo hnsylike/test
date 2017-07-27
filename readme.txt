@@ -9,3 +9,5 @@ test addTwo
 
 
 test addThree.
+
+Creating a new branch is quick & simple.
